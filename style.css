@@ -205,7 +205,7 @@
 
 .sub-eleven-box-1 img{
     width: 40%;
-    object-fit:cover;
+    object-fit:fill;
 }
 
 .enquiry-btn {
