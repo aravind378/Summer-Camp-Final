@@ -294,7 +294,7 @@
 #cancel-2 {
     position: absolute;
     top: 18px;
-    left: 350px;
+    right : 0px;
     cursor: pointer;
     border: 1px solid white;
     width: 10%;
