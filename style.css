@@ -203,9 +203,14 @@
     gap: 10px;
 }
 
-.sub-eleven-box-1 img{
+.sub-eleven-box-1 .two-images{
     width: 40%;
-    object-fit:fill;
+    object-fit: fill;
+}
+
+.sub-eleven-box-1 .ten-images{
+    width: 40%;
+    object-fit: cover;
 }
 
 .enquiry-btn {
